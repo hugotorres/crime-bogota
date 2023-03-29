@@ -1,7 +1,7 @@
 <template>
   <div>
     <input v-model="filter" placeholder="Filter by name" />
-    <crime-statistics :localities="localityData" :filter="filter" />
+    <crime-statistics :localities="localityData" :filter="filterLocality" />
   </div>
 </template>
 
@@ -19,6 +19,11 @@ export default {
       localityData,
       filter: ""
     };
+  },
+  computed: {
+    filterLocality() {
+      return this.filter;
+    },
   },
 }
 </script>
