@@ -1,0 +1,200 @@
+[
+    {
+      "id": 1,
+      "name": "Usaquen",
+      "population": 506436,
+      "reportedCrimes": 767,
+      "crimeRate": 151.3,
+      "crimeRatePerPerson": 0.15,
+      "area": 65.54,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 2,
+      "name": "Chapinero",
+      "population": 1397017,
+      "reportedCrimes": 4566,
+      "crimeRate": 327,
+      "crimeRatePerPerson": 0.23,
+      "area": 38.15,
+      "numPoliceStations": 3
+    },
+    {
+      "id": 3,
+      "name": "Santa Fe",
+      "population": 1084435,
+      "reportedCrimes": 10334,
+      "crimeRate": 953.3,
+      "crimeRatePerPerson": 0.88,
+      "area": 44.53,
+      "numPoliceStations": 5
+    },
+    {
+      "id": 4,
+      "name": "San Cristobal",
+      "population": 744385,
+      "reportedCrimes": 6522,
+      "crimeRate": 876.3,
+      "crimeRatePerPerson": 1.17,
+      "area": 49.09,
+      "numPoliceStations": 4
+    },
+    {
+      "id": 5,
+      "name": "Usme",
+      "population": 456015,
+      "reportedCrimes": 3915,
+      "crimeRate": 857.3,
+      "crimeRatePerPerson": 1.79,
+      "area": 215.06,
+      "numPoliceStations": 2
+    },
+    {
+      "id": 6,
+      "name": "Tunjuelito",
+      "population": 199430,
+      "reportedCrimes": 1555,
+      "crimeRate": 779.5,
+      "crimeRatePerPerson": 3.91,
+      "area": 9.91,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 7,
+      "name": "Bosa",
+      "population": 717867,
+      "reportedCrimes": 7278,
+      "crimeRate": 1013.7,
+      "crimeRatePerPerson": 1.42,
+      "area": 23.93,
+      "numPoliceStations": 3
+    },
+    {
+      "id": 8,
+      "name": "Kennedy",
+      "population": 1336206,
+      "reportedCrimes": 11445,
+      "crimeRate": 856.1,
+      "crimeRatePerPerson": 0.64,
+      "area": 38.04,
+      "numPoliceStations": 4
+    },
+    {
+      "id": 9,
+      "name": "Fontibon",
+      "population": 396672,
+      "reportedCrimes": 3092,
+      "crimeRate": 778.5,
+      "crimeRatePerPerson": 1.96,
+      "area": 33.28,
+      "numPoliceStations": 1
+    }, {
+      "id": 10,
+      "name": "Engativa",
+      "population": 1020280, "reportedCrimes": 10630,
+      "crimeRate": 1041.5,
+      "crimeRatePerPerson": 1.03,
+      "area": 35.88,
+      "numPoliceStations": 3
+    },
+    {
+      "id": 11,
+      "name": "Suba",
+      "population": 1260411,
+      "reportedCrimes": 12358,
+      "crimeRate": 979.2,
+      "crimeRatePerPerson": 0.98,
+      "area": 100.56,
+      "numPoliceStations": 5
+    },
+    {
+      "id": 12,
+      "name": "Barrios Unidos",
+      "population": 250571,
+      "reportedCrimes": 2123,
+      "crimeRate": 846.8,
+      "crimeRatePerPerson": 3.38,
+      "area": 11.09,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 13,
+      "name": "Teusaquillo",
+      "population": 153025,
+      "reportedCrimes": 1551,
+      "crimeRate": 1012.8,
+      "crimeRatePerPerson": 6.63,
+      "area": 14.19,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 14,
+      "name": "Los Martires",
+      "population": 100234,
+      "reportedCrimes": 1596,
+      "crimeRate": 1591.8,
+      "crimeRatePerPerson": 15.89,
+      "area": 4.58,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 15,
+      "name": "Antonio Nariño",
+      "population": 110768,
+      "reportedCrimes": 1005,
+      "crimeRate": 907.8,
+      "crimeRatePerPerson": 8.19,
+      "area": 4.85,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 16,
+      "name": "Puente Aranda",
+      "population": 258287,
+      "reportedCrimes": 2756,
+      "crimeRate": 1066.8,
+      "crimeRatePerPerson": 4.13,
+      "area": 17.39,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 17,
+      "name": "La Candelaria",
+      "population": 22262,
+      "reportedCrimes": 551,
+      "crimeRate": 2471.4,
+      "crimeRatePerPerson": 123.94,
+      "area": 2.06,
+      "numPoliceStations": 1
+    },
+    {
+      "id": 18,
+      "name": "Rafael Uribe Uribe",
+      "population": 373435,
+      "reportedCrimes": 3951,
+      "crimeRate": 1058.8,
+      "crimeRatePerPerson": 2.83,
+      "area": 13.76,
+      "numPoliceStations": 2
+    },
+    {
+      "id": 19,
+      "name": "Ciudad Bolivar",
+      "population": 683313,
+      "reportedCrimes": 8829,
+      "crimeRate": 1291.1,
+      "crimeRatePerPerson": 1.9,
+      "area": 130.33,
+      "numPoliceStations": 5
+    },
+    {
+      "id": 20,
+      "name": "Sumapaz",
+      "population": 2376,
+      "reportedCrimes": 8,
+      "crimeRate": 336.6,
+      "crimeRatePerPerson": 3.37,
+      "area": 780.96,
+      "numPoliceStations": 0
+    }
+  ]
