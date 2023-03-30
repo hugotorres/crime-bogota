@@ -6,7 +6,7 @@
         <span class="slider round"></span>
       </label>
     </div>
-    <h2>Crime Statistics by Locality in Bogotá {{ switchHeader }}</h2>
+    <h2>Crime Statistics by Locality in Bogotá</h2>
     <table v-if="switchHeader">
       <thead>
         <tr>
@@ -31,7 +31,6 @@
         </tr>
       </tbody>
     </table>
-
     <div v-else>
       <label for="filter">Filter by Locality:</label>
       <div class="row header">
@@ -51,7 +50,6 @@
         <div class="cell">{{ locality.numPoliceStations }}</div>
       </div>
     </div>
-
   </div>
 </template>
 
@@ -120,7 +118,7 @@ td {
   width: 42px;
   height: 16px;
 }
-
+  
 /* Hide default HTML checkbox */
 .switch input {
   opacity: 0;

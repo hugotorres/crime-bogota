@@ -1,134 +1,132 @@
-{
-    "localityData": [
-        {
-            "id": 1,
-            "name": "La Candelaria",
-            "population": 28048,
-            "reportedCrimes": 3118,
-            "crimeRate": 11.1,
-            "crimeRatePerPerson": 0.000395,
-            "area": 0.58,
-            "numPoliceStations": 1
-        },
-        {
-            "id": 2,
-            "name": "La América",
-            "population": 91457,
-            "reportedCrimes": 5248,
-            "crimeRate": 5.7,
-            "crimeRatePerPerson": 0.000062,
-            "area": 4.82,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 3,
-            "name": "San Javier",
-            "population": 151601,
-            "reportedCrimes": 14387,
-            "crimeRate": 9.5,
-            "crimeRatePerPerson": 0.000063,
-            "area": 7.28,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 4,
-            "name": "El Poblado",
-            "population": 138230,
-            "reportedCrimes": 3739,
-            "crimeRate": 2.7,
-            "crimeRatePerPerson": 0.000027,
-            "area": 23.11,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 5,
-            "name": "Guayabal",
-            "population": 93502,
-            "reportedCrimes": 2959,
-            "crimeRate": 3.2,
-            "crimeRatePerPerson": 0.000034,
-            "area": 6.74,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 6,
-            "name": "Buenos Aires",
-            "population": 128122,
-            "reportedCrimes": 7584,
-            "crimeRate": 5.9,
-            "crimeRatePerPerson": 0.000046,
-            "area": 7.54,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 7,
-            "name": "Castilla",
-            "population": 190441,
-            "reportedCrimes": 14255,
-            "crimeRate": 7.5,
-            "crimeRatePerPerson": 0.000039,
-            "area": 11.43,
-            "numPoliceStations": 3
-        },
-        {
-            "id": 8,
-            "name": "Doce de Octubre",
-            "population": 105187,
-            "reportedCrimes": 6315,
-            "crimeRate": 6.0,
-            "crimeRatePerPerson": 0.000057,
-            "area": 5.41,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 9,
-            "name": "Robledo",
-            "population": 190570,
-            "reportedCrimes": 13827,
-            "crimeRate": 7.3,
-            "crimeRatePerPerson": 0.000038,
-            "area": 13.27,
-            "numPoliceStations": 2
-        },
-        {
-            "id": 10,
-            "name": "El Poblado",
-            "crimeRate": 20,
-            "population": 150000,
-            "area": 23.21,
-            "numPoliceStations": 5
-        },
-        {
-            "id": 2,
-            "name": "La Candelaria",
-            "crimeRate": 80,
-            "population": 80000,
-            "area": 7.8,
-            "numPoliceStations": 3
-        },
-        {
-            "id": 3,
-            "name": "Laureles-Estadio",
-            "crimeRate": 40,
-            "population": 120000,
-            "area": 14.3,
-            "numPoliceStations": 4
-        },
-        {
-            "id": 4,
-            "name": "Envigado",
-            "crimeRate": 30,
-            "population": 100000,
-            "area": 21.5,
-            "numPoliceStations": 3
-        },
-        {
-            "id": 5,
-            "name": "Bello",
-            "crimeRate": 60,
-            "population": 90000,
-            "area": 18.6,
-            "numPoliceStations": 4
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "La Candelaria",
+        "population": 28048,
+        "reportedCrimes": 3118,
+        "crimeRate": 11.1,
+        "crimeRatePerPerson": 0.000395,
+        "area": 0.58,
+        "numPoliceStations": 1
+    },
+    {
+        "id": 2,
+        "name": "La América",
+        "population": 91457,
+        "reportedCrimes": 5248,
+        "crimeRate": 5.7,
+        "crimeRatePerPerson": 0.000062,
+        "area": 4.82,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 3,
+        "name": "San Javier",
+        "population": 151601,
+        "reportedCrimes": 14387,
+        "crimeRate": 9.5,
+        "crimeRatePerPerson": 0.000063,
+        "area": 7.28,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 4,
+        "name": "El Poblado",
+        "population": 138230,
+        "reportedCrimes": 3739,
+        "crimeRate": 2.7,
+        "crimeRatePerPerson": 0.000027,
+        "area": 23.11,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 5,
+        "name": "Guayabal",
+        "population": 93502,
+        "reportedCrimes": 2959,
+        "crimeRate": 3.2,
+        "crimeRatePerPerson": 0.000034,
+        "area": 6.74,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 6,
+        "name": "Buenos Aires",
+        "population": 128122,
+        "reportedCrimes": 7584,
+        "crimeRate": 5.9,
+        "crimeRatePerPerson": 0.000046,
+        "area": 7.54,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 7,
+        "name": "Castilla",
+        "population": 190441,
+        "reportedCrimes": 14255,
+        "crimeRate": 7.5,
+        "crimeRatePerPerson": 0.000039,
+        "area": 11.43,
+        "numPoliceStations": 3
+    },
+    {
+        "id": 8,
+        "name": "Doce de Octubre",
+        "population": 105187,
+        "reportedCrimes": 6315,
+        "crimeRate": 6.0,
+        "crimeRatePerPerson": 0.000057,
+        "area": 5.41,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 9,
+        "name": "Robledo",
+        "population": 190570,
+        "reportedCrimes": 13827,
+        "crimeRate": 7.3,
+        "crimeRatePerPerson": 0.000038,
+        "area": 13.27,
+        "numPoliceStations": 2
+    },
+    {
+        "id": 10,
+        "name": "El Poblado",
+        "crimeRate": 20,
+        "population": 150000,
+        "area": 23.21,
+        "numPoliceStations": 5
+    },
+    {
+        "id": 2,
+        "name": "La Candelaria",
+        "crimeRate": 80,
+        "population": 80000,
+        "area": 7.8,
+        "numPoliceStations": 3
+    },
+    {
+        "id": 3,
+        "name": "Laureles-Estadio",
+        "crimeRate": 40,
+        "population": 120000,
+        "area": 14.3,
+        "numPoliceStations": 4
+    },
+    {
+        "id": 4,
+        "name": "Envigado",
+        "crimeRate": 30,
+        "population": 100000,
+        "area": 21.5,
+        "numPoliceStations": 3
+    },
+    {
+        "id": 5,
+        "name": "Bello",
+        "crimeRate": 60,
+        "population": 90000,
+        "area": 18.6,
+        "numPoliceStations": 4
+    }
+]
