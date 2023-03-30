@@ -14,6 +14,7 @@
 import CrimeStatistics from '@/components/CrimeStatistics.vue';
 import localityData from "@/data/localityData.json";
 import medellin from "@/data/medellin.json";
+import { inject } from '@vercel/analytics';
 
 export default {
   name: 'App',
@@ -27,6 +28,9 @@ export default {
       medellin,
       filter: ""
     };
+  },
+  created() {
+    inject()
   },
   computed: {
     computedCity() {

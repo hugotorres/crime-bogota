@@ -118,7 +118,7 @@ td {
   width: 42px;
   height: 16px;
 }
-  
+
 /* Hide default HTML checkbox */
 .switch input {
   opacity: 0;
